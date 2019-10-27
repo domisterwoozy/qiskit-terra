@@ -22,6 +22,7 @@ from .depth import Depth
 from .size import Size
 from .width import Width
 from .count_ops import CountOps
+from .runtime import Runtime
 from .count_ops_longest_path import CountOpsLongestPath
 from .num_tensor_factors import NumTensorFactors
 from .dag_fixed_point import DAGFixedPoint
